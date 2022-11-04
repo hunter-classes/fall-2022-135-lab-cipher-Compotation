@@ -14,3 +14,7 @@ double getFrequency(std::string str, char letter);
 std::vector<double> getFrequencies(std::string str);
 
 int getLowerChar(int index);
+
+double getDistance(std::vector<double> vec);
+
+std::string solve(std::string encrypted_string);

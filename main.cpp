@@ -5,5 +5,6 @@
 
 int main()
 {
+  std::cout << getIndex('j');
   return 0;
 }
